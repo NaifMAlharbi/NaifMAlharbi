@@ -25,7 +25,7 @@ Through my academic projects and internships, I've worked on developing machine 
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_LINK](http://www.linkedin.com/in/naif-muteb-alharbi))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/naif-muteb-alharbi)
 
 ---
 
